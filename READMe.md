@@ -48,7 +48,7 @@ Show a simple example of an analysis of the Titanic disaster in Python using a f
 #### Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
-*   Exploring Data through Visualizations with Matplotlib
+*   Exploring Data through Visualizations
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
@@ -59,7 +59,6 @@ Show a simple example of an analysis of the Titanic disaster in Python using a f
     +   Plotting results
 
 #### Valuation of the Analysis
-*   K-folds cross validation to valuate results locally
 *   Output the results from the IPython Notebook to Kaggle
 
 
