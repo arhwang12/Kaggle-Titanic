@@ -20,12 +20,9 @@ To run this notebook interactively:
 
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
-* [IPython](http://ipython.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [SciKit-Learn](http://scikit-learn.org/stable/)
-* [SciPy](http://www.scipy.org/)
-* [StatsModels](http://statsmodels.sourceforge.net/)
-* [Patsy](http://patsy.readthedocs.org/en/latest/)
+* [Seaborn](https://seaborn.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
 
 
